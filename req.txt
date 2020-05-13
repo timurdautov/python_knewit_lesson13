@@ -5,3 +5,8 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/timurdautov/python_knewit_lesson13.git
 git push -u origin master
+
+обновить данные:
+git add .
+git commit -m "test commit"
+git push -u origin master
